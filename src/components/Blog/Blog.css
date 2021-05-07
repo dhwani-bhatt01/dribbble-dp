@@ -1,0 +1,36 @@
+.blog-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 40px auto;
+}
+
+.blog-one-liner {
+  color: #047469;
+  font-size: 16px;
+  font-weight: 300px;
+  letter-spacing: 4px;
+  margin-bottom: 30px;
+}
+
+.blog-heading {
+  font-size: 35px;
+  font-weight: 450;
+}
+
+.blog-sub-heading {
+  margin: 20px 0;
+  line-height: 1.6;
+  color: #a4b1c0;
+  font-weight: 500;
+  width: 370px;
+}
+
+.blog-img-container {
+  width: 550px;
+}
+
+.portfolio {
+  display: flex;
+  justify-content: space-between;
+}

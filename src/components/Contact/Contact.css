@@ -1,0 +1,15 @@
+.contact {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 85px auto;
+}
+
+.contact-heading {
+  font-size: 35px;
+  color: #071c35;
+  width: 640px;
+  text-align: center;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
